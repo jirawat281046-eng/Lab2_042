@@ -3,7 +3,7 @@
 		<tr>
 			<td width="23" rowspan="2">&nbsp;</td>
 			<td height="119" colspan="2" bgcolor="#661d00">
-				<h1><center><font color="#FFFFFF">จิรวัฒน์อพาร์ตเมนท์</font></center></h1>
+				<h1><center><font color="#FFFFFF">จิรวัฒน์ อพาร์ตเมนท์</font></center></h1>
 				<?php include "Date.php";?>
 			</td>
 			<td width="43" rowspan="2">&nbsp;</td>
